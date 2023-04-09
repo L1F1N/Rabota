@@ -1,0 +1,6 @@
+C:\Govno po mdk2\ModulnoeTestirovanie\ModulnoeTestirovanie\bin\Debug\ModulnoeTestirovanie.dll
+C:\Govno po mdk2\ModulnoeTestirovanie\ModulnoeTestirovanie\bin\Debug\ModulnoeTestirovanie.pdb
+C:\Govno po mdk2\ModulnoeTestirovanie\ModulnoeTestirovanie\obj\Debug\ModulnoeTestirovanie.csproj.AssemblyReference.cache
+C:\Govno po mdk2\ModulnoeTestirovanie\ModulnoeTestirovanie\obj\Debug\ModulnoeTestirovanie.csproj.CoreCompileInputs.cache
+C:\Govno po mdk2\ModulnoeTestirovanie\ModulnoeTestirovanie\obj\Debug\ModulnoeTestirovanie.dll
+C:\Govno po mdk2\ModulnoeTestirovanie\ModulnoeTestirovanie\obj\Debug\ModulnoeTestirovanie.pdb
