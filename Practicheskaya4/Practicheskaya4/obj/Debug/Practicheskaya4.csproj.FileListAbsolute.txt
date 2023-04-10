@@ -1,0 +1,8 @@
+C:\Govno po mdk2\Practicheskaya4\Practicheskaya4\bin\Debug\Practicheskaya4.exe.config
+C:\Govno po mdk2\Practicheskaya4\Practicheskaya4\bin\Debug\Practicheskaya4.exe
+C:\Govno po mdk2\Practicheskaya4\Practicheskaya4\bin\Debug\Practicheskaya4.pdb
+C:\Govno po mdk2\Practicheskaya4\Practicheskaya4\obj\Debug\Practicheskaya4.csproj.AssemblyReference.cache
+C:\Govno po mdk2\Practicheskaya4\Practicheskaya4\obj\Debug\Practicheskaya4.csproj.SuggestedBindingRedirects.cache
+C:\Govno po mdk2\Practicheskaya4\Practicheskaya4\obj\Debug\Practicheskaya4.csproj.CoreCompileInputs.cache
+C:\Govno po mdk2\Practicheskaya4\Practicheskaya4\obj\Debug\Practicheskaya4.exe
+C:\Govno po mdk2\Practicheskaya4\Practicheskaya4\obj\Debug\Practicheskaya4.pdb
