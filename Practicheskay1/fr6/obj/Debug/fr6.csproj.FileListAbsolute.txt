@@ -1,0 +1,8 @@
+C:\Users\student\Desktop\fr6\fr6\obj\Debug\fr6.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\fr6\fr6\obj\Debug\fr6.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\fr6\fr6\obj\Debug\fr6.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\fr6\fr6\bin\Debug\fr6.exe.config
+C:\Users\student\Desktop\fr6\fr6\bin\Debug\fr6.exe
+C:\Users\student\Desktop\fr6\fr6\bin\Debug\fr6.pdb
+C:\Users\student\Desktop\fr6\fr6\obj\Debug\fr6.exe
+C:\Users\student\Desktop\fr6\fr6\obj\Debug\fr6.pdb
