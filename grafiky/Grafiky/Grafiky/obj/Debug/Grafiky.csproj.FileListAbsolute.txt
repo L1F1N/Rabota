@@ -1,0 +1,16 @@
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.AssemblyReference.cache
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\App.g.cs
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky_MarkupCompile.cache
+C:\Users\Ad\Desktop\Grafiky\Grafiky\bin\Debug\Grafiky.exe.config
+C:\Users\Ad\Desktop\Grafiky\Grafiky\bin\Debug\Grafiky.exe
+C:\Users\Ad\Desktop\Grafiky\Grafiky\bin\Debug\Grafiky.pdb
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\MainWindow.g.cs
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky_MarkupCompile.lref
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\MainWindow.baml
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.g.resources
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.Properties.Resources.resources
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.GenerateResource.cache
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.csproj.CoreCompileInputs.cache
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.exe
+C:\Users\Ad\Desktop\Grafiky\Grafiky\obj\Debug\Grafiky.pdb
